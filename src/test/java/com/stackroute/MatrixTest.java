@@ -17,7 +17,7 @@ public class MatrixTest {
     public void matrixSum1()
     {
         int[][] result = mat.sum(new int[][]{{1, 2, 3}, {4, 5, 6},{7,8,9}}, new int[][]{{9, 8, 7}, {6, 5, 4},{1,2,3}});
-        assertArrayEquals(new int[][]{{24,24,24},{72,69,66},{120,114,108}},result);
+        assertArrayEquals(new int[][]{{10,10,10},{10,10,10},{8,10,12}},result);
     }
     @Test
     public void matrixSum2()
