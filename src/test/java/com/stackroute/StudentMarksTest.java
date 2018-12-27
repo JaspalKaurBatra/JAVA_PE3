@@ -13,7 +13,7 @@ public class StudentMarksTest {
     }
     @Test
     public void test2() {
-        assertEquals("Grade should be between 0 to 100",true, StudentMarks.studentmarks(25));
+        assertEquals("Grade is in between 0 and 100",true, StudentMarks.studentmarks(25));
 
     }
 
@@ -27,11 +27,9 @@ public class StudentMarksTest {
         assertNotEquals("grade should be equal to 0 to 100", true, StudentMarks.studentmarks(450));
     }
 
-    @Test
-    public void test5() {
-        assertNull("grade should be equal to 0 to 100", StudentMarks.studentmarks( 60));
+
     }
-}
+
 
 
 
