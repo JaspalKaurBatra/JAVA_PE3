@@ -3,57 +3,48 @@ package com.stackroute;
 public class ExceptionTypes {
 
     //method for NegativeArraySizeException
-    public static String ArrayCreation()
-    {
-        try
-        {
-            int ar[]=new int[-5];
+   public String arrayCreation(){
+       String strNegativeSize = null;
+       try {
+           int arr[] = new int[-2];
+           //int a = arr[-2];
+       }
+       catch (NegativeArraySizeException n){
+          strNegativeSize=n.getClass().toString();
+       }
+       finally {
+           System.out.println("running array creation finally");
+       }
+       return strNegativeSize;
+   }
+    public String arrayAccess(){
+        String strIndex = null;
+        try {
+            int arr[] = new int[10];
+            int a = arr[11];
         }
-        catch (NegativeArraySizeException nae)
-        {
-            System.out.println(nae.getMessage());
+        catch (ArrayIndexOutOfBoundsException a){
+            strIndex = a.getClass().toString();
         }
-
-        finally
-        {
-            return "class java.lang.NegativeArraySizeException";
+        finally {
+            System.out.println("running array access finally");
         }
-
+        return strIndex;
     }
 
-    //method for IndexOutOfBoundException
-    public static String ArrayAccess()
-    {
-        try
-        {
-            int ar[]=new int[10];
-            ar[12]=120;
-        }
-        catch (ArrayIndexOutOfBoundsException ae)
-        {
-            System.out.println(ae.getMessage());
-        }
-        finally
-        {
-            return "class java.lang.ArrayIndexOutOfBoundsException";
-        }
+    public String stringAccess(){
+       String str = null;
+       String strNull = null;
+       try{
+           char a = str.charAt(0);
+       }
+       catch (NullPointerException n){
+           strNull = n.getClass().toString();
+       }
+       finally {
+           System.out.println("running string access finally");
+       }
+       return strNull;
     }
 
-    //method for NullPointerException
-    public static String StringAccess()
-    {
-        try
-        {
-            String str=null;
-            System.out.println(str.charAt(0));
-        }
-        catch (NullPointerException npe)
-        {
-            System.out.println(npe.getMessage());
-        }
-        finally
-        {
-            return "class java.lang.NullPointerException";
-        }
-    }
 }

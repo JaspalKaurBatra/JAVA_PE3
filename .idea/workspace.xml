@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="32f2dc3c-7edf-4e29-a040-deccde5d4a4b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/Calender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/Calender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/StudentMarks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/StudentMarks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/stackroute/CalenderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stackroute/CalenderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/stackroute/StudentMarksTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stackroute/StudentMarksTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVAPE3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/ExceptionTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/ExceptionTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stackroute/ExceptionTypesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stackroute/ExceptionTypesTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,24 +15,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/StudentMarksTest.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/ExceptionTypesTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="-15">
+              <caret line="21" column="11" lean-forward="true" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Calender.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/ExceptionTypes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="27" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="280">
+              <caret line="38" column="34" lean-forward="true" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -56,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/StudentMarks.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+              <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -83,10 +79,19 @@
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Calender.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/StudentMarks.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/stackroute/StudentMarksTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/ExceptionTypesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/ExceptionTypes.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="67" />
     <option name="y" value="25" />
     <option name="width" value="695" />
@@ -161,7 +166,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545913534284" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545919227215" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -180,9 +185,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.StudentMarksTest">
-    <configuration name="CalenderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JAVA_PE3" />
+  <component name="RunManager" selected="JUnit.ExceptionTypesTest">
+    <configuration name="ExceptionTypesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JAVAPE3" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.stackroute.*" />
@@ -190,13 +195,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.CalenderTest" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.ExceptionTypesTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalenderTest.caltest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JAVA_PE3" />
+    <configuration name="ExceptionTypesTest.IndexOutOfBoundsException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JAVAPE3" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.stackroute.*" />
@@ -204,8 +209,40 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.CalenderTest" />
-      <option name="METHOD_NAME" value="caltest" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.ExceptionTypesTest" />
+      <option name="METHOD_NAME" value="IndexOutOfBoundsException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionTypesTest.NegativeArraySizeExceptionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JAVAPE3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.ExceptionTypesTest" />
+      <option name="METHOD_NAME" value="NegativeArraySizeExceptionTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionTypesTest.NullPointerException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JAVAPE3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.ExceptionTypesTest" />
+      <option name="METHOD_NAME" value="NullPointerException" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -227,9 +264,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ExceptionTypesTest" />
+        <item itemvalue="JUnit.ExceptionTypesTest.NullPointerException" />
+        <item itemvalue="JUnit.ExceptionTypesTest.IndexOutOfBoundsException" />
+        <item itemvalue="JUnit.ExceptionTypesTest.NegativeArraySizeExceptionTest" />
         <item itemvalue="JUnit.StudentMarksTest" />
-        <item itemvalue="JUnit.CalenderTest" />
-        <item itemvalue="JUnit.CalenderTest.caltest" />
       </list>
     </recent_temporary>
   </component>
@@ -247,67 +286,67 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CalenderTest_caltest - 2018.12.27 at 17h 28m 22s.xml">
-      <configuration name="CalenderTest.caltest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CalenderTest_caltest - 2018.12.27 at 17h 28m 54s.xml">
-      <configuration name="CalenderTest.caltest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CalenderTest - 2018.12.27 at 17h 29m 38s.xml">
-      <configuration name="CalenderTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CalenderTest - 2018.12.27 at 17h 30m 36s.xml">
-      <configuration name="CalenderTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CalenderTest - 2018.12.27 at 17h 30m 53s.xml">
-      <configuration name="CalenderTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CalenderTest - 2018.12.27 at 17h 31m 35s.xml">
-      <configuration name="CalenderTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StudentMarksTest - 2018.12.27 at 17h 38m 23s.xml">
-      <configuration name="StudentMarksTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StudentMarksTest - 2018.12.27 at 17h 39m 08s.xml">
-      <configuration name="StudentMarksTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="StudentMarksTest - 2018.12.27 at 17h 40m 07s.xml">
       <configuration name="StudentMarksTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="StudentMarksTest - 2018.12.27 at 17h 48m 41s.xml">
       <configuration name="StudentMarksTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ExceptionTypesTest - 2018.12.27 at 19h 24m 35s.xml">
+      <configuration name="ExceptionTypesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExceptionTypesTest - 2018.12.27 at 19h 26m 19s.xml">
+      <configuration name="ExceptionTypesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExceptionTypesTest_NegativeArraySizeExceptionTest - 2018.12.27 at 19h 27m 45s.xml">
+      <configuration name="ExceptionTypesTest.NegativeArraySizeExceptionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExceptionTypesTest_IndexOutOfBoundsException - 2018.12.27 at 19h 28m 27s.xml">
+      <configuration name="ExceptionTypesTest.IndexOutOfBoundsException" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExceptionTypesTest_IndexOutOfBoundsException - 2018.12.27 at 19h 28m 58s.xml">
+      <configuration name="ExceptionTypesTest.IndexOutOfBoundsException" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExceptionTypesTest_IndexOutOfBoundsException - 2018.12.27 at 19h 30m 16s.xml">
+      <configuration name="ExceptionTypesTest.IndexOutOfBoundsException" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExceptionTypesTest_NullPointerException - 2018.12.27 at 19h 30m 22s.xml">
+      <configuration name="ExceptionTypesTest.NullPointerException" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExceptionTypesTest - 2018.12.27 at 19h 30m 28s.xml">
+      <configuration name="ExceptionTypesTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1533" height="875" extended-state="6" />
+    <frame x="67" y="25" width="1533" height="875" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24949563" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2528581" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.10455764" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3297587" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3297587" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3297587" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3994638" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.10455764" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3297587" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="editorHistoryManager">
@@ -332,16 +371,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/StudentMarks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Matrix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -363,7 +392,27 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/StudentMarksTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/StudentMarks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Calender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -374,13 +423,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Calender.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/ExceptionTypes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="27" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="280">
+          <caret line="38" column="34" lean-forward="true" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/ExceptionTypesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="21" column="11" lean-forward="true" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
         </state>
       </provider>
     </entry>
