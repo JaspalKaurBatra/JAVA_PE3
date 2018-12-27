@@ -31,18 +31,18 @@ public class ExceptionTypesTest {
 
     @Test
     public void NegativeArraySizeExceptionTest(){
-        assertEquals("class java.lang.NegativeArraySizeException", exc.ArrayCreation());
+        assertEquals("class java.lang.NegativeArraySizeException", exc.arrayCreation());
     }
 
     @Test
     public void IndexOutOfBoundsException(){
-        assertEquals("class java.lang.ArrayIndexOutOfBoundsException", exc.ArrayAccess());
+        assertEquals("class java.lang.ArrayIndexOutOfBoundsException", exc.arrayAccess());
     }
 
     @Test
     public void NullPointerException(){
 
-         assertEquals("class java.lang.NullPointerException", exc.StringAccess());
+         assertEquals("class java.lang.NullPointerException", exc.stringAccess());
     }
 
 
